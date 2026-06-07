@@ -29,7 +29,7 @@ transformers-huggingface-blog-assignment/
 ├── screenshots/
 │   ├── summarization_output.png
 │   └── translation_output.png
-└── blog.pdf
+
 ```
 
 ---
@@ -212,13 +212,7 @@ Limitations:
 LinkedIn Article Link:
 
 ```text
-PASTE_YOUR_LINKEDIN_ARTICLE_LINK_HERE
-```
-
-Example:
-
-```text
-https://www.linkedin.com/pulse/understanding-transformers-hugging-face-mrutyunjaya-debata
+https://www.linkedin.com/posts/mrutyunjaya3806debata_artificialintelligence-machinelearning-deeplearning-ugcPost-7468779069623492609-p2Ji/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjkUzAB8nBBvsHkPHtnR3d9jX7z3Mi-xXc
 ```
 
 ---
